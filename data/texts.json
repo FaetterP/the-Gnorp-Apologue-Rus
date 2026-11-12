@@ -1,0 +1,1942 @@
+[
+  {
+    "en": "[ERROR: NO TEXT]",
+    "ru": ""
+  },
+  {
+    "en": "X",
+    "ru": ""
+  },
+  {
+    "en": "Y",
+    "ru": ""
+  },
+  {
+    "en": "%",
+    "ru": ""
+  },
+  {
+    "en": "Welcome to (the) Gnorp Apologue!",
+    "ru": ""
+  },
+  {
+    "en": "You are currently following a gnorp.",
+    "ru": ""
+  },
+  {
+    "en": "To move the camera:\n\n— Hold Right-Click or Spacebar, and drag your mouse to the left or right\n\nTry doing that now!",
+    "ru": ""
+  },
+  {
+    "en": "To zoom in or out, use one of the following:\n\n— The scroll wheel\n— Page up & page down\n\nTry doing that now!",
+    "ru": ""
+  },
+  {
+    "en": "The gnorp you are following is standing next to the Talent Stone, which is one of many structures in the game. \n\nYou can hover over most structures to access their menus.",
+    "ru": ""
+  },
+  {
+    "en": "You do not have any talent points, so let's move on.",
+    "ru": ""
+  },
+  {
+    "en": "A big rock! It looks mysterious.\n\nClick the rock!",
+    "ru": ""
+  },
+  {
+    "en": "Shards came out!\n\nShards are the main resource of the game, and are used for great things. Gnorps love them.\n\nGet some more!\n\nYou can also hold your mouse button down to keep clicking.",
+    "ru": ""
+  },
+  {
+    "en": "Gnorps can use the shards from the rock to make stuff.",
+    "ru": ""
+  },
+  {
+    "en": "The Shard Stash - where all your shards go.\n\nIf you hover over it, you will discover that it also allows you to construct a couple of buildings if you have enough shards.\n\nHover over a shard on the ground to the left, and then click it.",
+    "ru": ""
+  },
+  {
+    "en": "Nice!\n\nIf the shard is close enough, it will fly into The Shard Stash.",
+    "ru": ""
+  },
+  {
+    "en": "You got a shard!\n\nAt the top of the screen, you can see how many shards you have.\n\nOnce you have 10 shards, you can build either The Express or the Slam Club. Either option will help you rid yourself of all this tedious manual labor.",
+    "ru": ""
+  },
+  {
+    "en": "It's time to build something new\n\n— The Express\nHome of the runners, who gather and deliver shards. The recommended choice.\n\n— The Slam Club\nHome of the slammers, who generate shards by slamming their heads into the rock.",
+    "ru": ""
+  },
+  {
+    "en": "Nice choice!\n\nEmploy a runner.",
+    "ru": ""
+  },
+  {
+    "en": "Interesting choice!\n\nWait for the gnorps to finish constructing The Slam Club, and then hover over it and see what you can buy.\n\nEmploy a slammer.",
+    "ru": ""
+  },
+  {
+    "en": "Runners collect shards so that you won't have to. You'll want more of these guys.\n\nContinue clicking the rock and you'll soon have enough shards to buy something else. Perhaps some housing to get more gnorps?",
+    "ru": ""
+  },
+  {
+    "en": "It's a slammer! Their heads are hard and so is their job.\n\nFor now you'll have to continue collecting shards manually, but you'll soon have enough to buy something else. Perhaps some housing to get more gnorps?",
+    "ru": ""
+  },
+  {
+    "en": "You're on your own now! Good luck!",
+    "ru": ""
+  },
+  {
+    "en": "PROJECT: CONSTELLATION",
+    "ru": ""
+  },
+  {
+    "en": "Harmony.\n\n— Rockets no longer immediately seek the rock\n— Every 20 seconds, all rockets currently in the air will all at once strike the rock\n— Rockets trigger weakspots\n— Rocket range is increased to 3-7, from 0-5",
+    "ru": ""
+  },
+  {
+    "en": "INFINITE REVERBERATION",
+    "ru": ""
+  },
+  {
+    "en": "The ground trembles.\n\n— Shockwaves no longer diminish based on distance traveled",
+    "ru": ""
+  },
+  {
+    "en": "COMBO POWER",
+    "ru": ""
+  },
+  {
+    "en": "Comboing can be even more powerful.\n\n— Slammers gain an additional 1% chance to combo every time they do a preparation jump",
+    "ru": ""
+  },
+  {
+    "en": "BATHE IN FIRE",
+    "ru": ""
+  },
+  {
+    "en": "Ignite the jetpacks.\n\n— Bombers gain a significant increase to ascent speed after bombing the rock while it is on fire",
+    "ru": ""
+  },
+  {
+    "en": "POPCORN",
+    "ru": ""
+  },
+  {
+    "en": "Fire damage now generates shards that fly, much, much farther. Almost all the way to the stash!\n\n— Fire damage has a range of 8-9, up from 0-3",
+    "ru": ""
+  },
+  {
+    "en": "FROSTFIRE",
+    "ru": ""
+  },
+  {
+    "en": "[Game of Thrones reference]\n\n— Allows Ice and Fire statuses to coexist\n— Shatter inherits the range of fire when fire is active\n— Directors are not repelled by frostfire",
+    "ru": ""
+  },
+  {
+    "en": "SUPERHOT",
+    "ru": ""
+  },
+  {
+    "en": "The power of the sun, in the palm of your hand.\n\n— Fire deals 2.5x damage\n— Fire damage occurs 6x faster",
+    "ru": ""
+  },
+  {
+    "en": "SUPERSHATTER",
+    "ru": ""
+  },
+  {
+    "en": "Brr, so cold.\n\n— Freeze has its duration increased to 25 seconds, and no longer increases damage dealt to the rock, but still modifies the range\n— The rock is no longer immune to ice after it was frozen\n— Shatter deals 550ø damage, unaffected by statuses\n— Shatter range is 4-8\n— This is not the longest talent tooltip in the game",
+    "ru": ""
+  },
+  {
+    "en": "ROCKET GATLER",
+    "ru": ""
+  },
+  {
+    "en": "Prepare for fireworks!\n\n— Gatling bullets now have 10% chance to spawn a Y-rocket.",
+    "ru": ""
+  },
+  {
+    "en": "TIMESHIFT DELIVERY",
+    "ru": ""
+  },
+  {
+    "en": "The runners and the arrow maker want in on the timey-wimey thing that bombers do.\n\n— Bombers with Timeshift Impact will propel all runners and the arrow maker forward in time by 0.5 seconds whenever the effect occurs",
+    "ru": ""
+  },
+  {
+    "en": "BULLET BREATH",
+    "ru": ""
+  },
+  {
+    "en": "If you can put fire inside the mouth of a gnorp, what about bullets?\n\n— With Fire Breath unlocked, slammers will spray gatler bullets on the 7th combo",
+    "ru": ""
+  },
+  {
+    "en": "MODERN WARFARE",
+    "ru": ""
+  },
+  {
+    "en": "The riflegnorps decided that bullets are for dummies, and replaced them with grenades.\n\n— With Grenade Launcher unlocked, riflegnorps will now shoot grenades instead of bullets",
+    "ru": ""
+  },
+  {
+    "en": "FUTURE TO THE BACK",
+    "ru": ""
+  },
+  {
+    "en": "Let's go back to a simpler time, when arrows were the latest and greatest and the world still made sense.\n\n— Gatler bullets are regular arrows\n— Rifle bullets can choose between ice arrows and fire arrows\n— Arrows generated this way are brittle, and do not stick to the rock",
+    "ru": ""
+  },
+  {
+    "en": "RUNNER BACKSTOP",
+    "ru": ""
+  },
+  {
+    "en": "Runners evaluate if they should work harder.\n\n— If total collection per minute is less than 50% of damage, runners get +20ø increased capacity",
+    "ru": ""
+  },
+  {
+    "en": "GATLING BALLOON",
+    "ru": ""
+  },
+  {
+    "en": "Let's upgrade the Balloon Gunner with some added oomph.\n\n— With Upgrade: Balloon Gunner acquired, the balloon will now shoot gatler bullets.",
+    "ru": ""
+  },
+  {
+    "en": "ARROWS' LAST HURRAH",
+    "ru": ""
+  },
+  {
+    "en": "What if arrows also dealt damage long after they were fired?\n\n— When a stuck arrow expires or is removed from the rock, it deals 120ø, with a range of 7-10\n— ALL arrows are worse - only 1 out of 20 arrows stick to the rock, down from 1 out of 3\n— Arrows generated by FUTURE TO THE BACK are no longer brittle\n— Not all arrows can leave a stuck arrow",
+    "ru": ""
+  },
+  {
+    "en": "RETURN TO SENDER",
+    "ru": ""
+  },
+  {
+    "en": "Some arrows survive the impact of hitting the rock. Let's make use of them.\n\n— Stuck arrows can now be retrieved by directors when they leave the rock\n— Retrieved arrows are delivered to the archers\n— 1 out of 3 of arrows are retrievable",
+    "ru": ""
+  },
+  {
+    "en": "NOTES",
+    "ru": ""
+  },
+  {
+    "en": "Directors have notes on how to better generate and collect shards.\n\n— While active, directors now add +2.0 to the multiplier (not affected by increases to the multiplier)",
+    "ru": ""
+  },
+  {
+    "en": "EXPLOSIVE EXPOSITION",
+    "ru": ""
+  },
+  {
+    "en": "You won't believe what the rock is hiding! (It's weakspots)\n\n— Hits by grenades reduce the time until the next weakspot appearance by 3 seconds\n— Max weakspots are now 1000",
+    "ru": ""
+  },
+  {
+    "en": "MOTIVATION",
+    "ru": ""
+  },
+  {
+    "en": "Slammers will not be ridiculed!\n\nWhen runners go past the halfway point between the stash and the rock, slammers become furiously motivated and gain the following effects:\n— 2x damage\n— +5% chance to combo\n— Trigger the effects of meditation, without having to meditate",
+    "ru": ""
+  },
+  {
+    "en": "HIKING BUDDY",
+    "ru": ""
+  },
+  {
+    "en": "\"Let's go hiking; it'll be great,\" said the mountaineer to its friend. \n\nThey went, but it wasn't great. \n\n— Mountaineers bring a friend when they depart the Cocoa Cafe\n— Friends are half as effective at digging. They also have small hats, and make frowny faces.",
+    "ru": ""
+  },
+  {
+    "en": "DEALS",
+    "ru": ""
+  },
+  {
+    "en": "Two for the price of one?! Free gnorps??\n\n— Whenever an arrow is shot, another arrow is also shot\n— You get 3 gnorps when you purchase a new arrow type",
+    "ru": ""
+  },
+  {
+    "en": "OPERATION: POCKET ROCKET\nTIMESHIFT RETAINMENT",
+    "ru": ""
+  },
+  {
+    "en": "Bombers are not happy with pocket rockets leaving their rocket pockets, so if you insert a point into this socket you can make it so that the pocket rockets are kept in the rocket pockets when bombers hit reverse on the clock..it.\n\n— Pocket Rockets now work with Timeshift Impact, accumulating pocket rockets on every hit\n— In addition, Bombers get +1 rockets generated per timeshift impact",
+    "ru": ""
+  },
+  {
+    "en": "EXTRA HOUSING",
+    "ru": ""
+  },
+  {
+    "en": "There can really never be enough housing for gnorps.\n\n— Every seventh housing you build, builds another for free",
+    "ru": ""
+  },
+  {
+    "en": "RECLAMATION MITIGATION",
+    "ru": ""
+  },
+  {
+    "en": "A way to reduce the impact of reclamation.\n\n— When reclaiming, the rock now prefers to pick shards closer to it, rather than random ones with a bias towards shards at the top of the pile",
+    "ru": ""
+  },
+  {
+    "en": "PRESTIGE EXPEDIENCE",
+    "ru": ""
+  },
+  {
+    "en": "As long as we have fewer than infinite gnorps, we need more. As long as we have fewer than infinite shards, we need more. \n\n— You start with 1 gnorp per spent talent point\n— Clicking is twice as effective, and holding down the mouse button is twice as fast. And you can click anywhere on the pile to move shards.",
+    "ru": ""
+  },
+  {
+    "en": "INSPIRATION",
+    "ru": ""
+  },
+  {
+    "en": "Allow gnorps to become empowered by inspirations, which allows you to fine-tune your units according to your talent and upgrade choices.\n\n— You can apply inspirations to your units, improving them in various ways",
+    "ru": ""
+  },
+  {
+    "en": "STRENGTH IN NUMBERS",
+    "ru": ""
+  },
+  {
+    "en": "The more the merrier!\n\n— Increase the multiplier by 0.1 for every 4 employed gnorps\n— You get one bonus gnorp every 10 minutes\n— Unlocks Auto-Housing, which allow you to automatically build housing when you have enough shards",
+    "ru": ""
+  },
+  {
+    "en": "DRONE CAPACITY",
+    "ru": ""
+  },
+  {
+    "en": "Drones get more capacity and they spawn more baby drones, but at a cost.\n\n— 2x capacity to drones\n— Drones now spawn 2 baby drones on death, up from 1\n— Descent speed reduced by 50%",
+    "ru": ""
+  },
+  {
+    "en": "BIGGER PILE",
+    "ru": ""
+  },
+  {
+    "en": "You start with some more gnorps, and passive reclamation occurs less frequently, but at a cost.\n\n— Start with +5 gnorps\n— Passive reclamation speed is reduced by 20%\n— Pile grows twice as tall before compression occurs",
+    "ru": ""
+  },
+  {
+    "en": "THE HIGHER THE PILE",
+    "ru": ""
+  },
+  {
+    "en": "The bigger the smile.\n\n— Mountaineers throw shards at a 100% greater forward velocity when the pile is 70% on the way to compress",
+    "ru": ""
+  },
+  {
+    "en": "DRONE.TARGET = FAR | |\nDRONE.TARGET = CLOSE",
+    "ru": ""
+  },
+  {
+    "en": "Drones target the tallest point of the pile, but this talent gives them two new modes.\n\n— Drones can now target the farthest point in the pile\n— Drones can now target the closest point in the pile",
+    "ru": ""
+  },
+  {
+    "en": "MULTIPLIER GROWTH",
+    "ru": ""
+  },
+  {
+    "en": "The multiplier grows by itself!\n\n— Gain an up to 4x increase to the multiplier over time\n— Starts at 1.0, increases by 0.1 every 6 minutes\n",
+    "ru": ""
+  },
+  {
+    "en": "VULNERABILITY EMPOWERMENT",
+    "ru": ""
+  },
+  {
+    "en": "\"Make the rock pay!\"\n\"Pay for what?\"\n\"It took our shards!\"\n\n— Vulnerability deals double the damage\n— When vulnerability activates, the rock returns all shards it took in the last 10 seconds",
+    "ru": ""
+  },
+  {
+    "en": "ZYBELLIUM MASTERY",
+    "ru": ""
+  },
+  {
+    "en": "Your knowledge of Zybellium deepens.\n\n— You start with one loose Zybellium\n— Spending Zybellium constructs one house\n— Zybellium can now be coaxed to come closer, by clicking the bulb on top of the Rock Analysis Lab",
+    "ru": ""
+  },
+  {
+    "en": "DON'T EAT THAT!",
+    "ru": ""
+  },
+  {
+    "en": "STOP! DROP IT! DROP IT! DRONE! PLEASE! STOP IT!\n\n— Zygnorps also gain energy from what the Drones consume. They're upset, so they try to compensate for the drone's misdeeds.",
+    "ru": ""
+  },
+  {
+    "en": "AGITATED ZYBE",
+    "ru": ""
+  },
+  {
+    "en": "We need more Zybellium!\n\n— Unlocks the Zybellium Agitator, at the Rock Analysis Lab\n— The Zybellium Agitator allows for the generation of an extra Zybellium during compression events within 5 minutes of the previous one, up to 3 times\n\n— As an added bonus, the balloon moves thrice as fast, thank gnorp.",
+    "ru": ""
+  },
+  {
+    "en": "NEW BUILDING",
+    "ru": ""
+  },
+  {
+    "en": "Unlocks a new building - The Shrine",
+    "ru": ""
+  },
+  {
+    "en": "DESCENT OF THE KING",
+    "ru": ""
+  },
+  {
+    "en": "King's might, their reign a radiant delight.\n\n— When the mountaineer king descends, the radiance of the crown adds +8.0 to the multiplier for 3 minutes (not affected by increases to the multiplier)\n— When a new king is crowned, the previous king bequeaths all its crowns\n— The king will not rest as long as the pile is worthy of climbing",
+    "ru": ""
+  },
+  {
+    "en": "GNORPCALIBUR: UNLEASHED",
+    "ru": ""
+  },
+  {
+    "en": "Unlock the full might of the accords.\n\n— All accords can be active at the same time",
+    "ru": ""
+  },
+  {
+    "en": "THE FLOW",
+    "ru": ""
+  },
+  {
+    "en": "Body and spirit.\n\n— After having meditated, Slammers deal +3ø damage for every strike they do in their current combo\n— Slammers fly much, much farther away after hitting the rock",
+    "ru": ""
+  },
+  {
+    "en": "Fire Arrows",
+    "ru": ""
+  },
+  {
+    "en": "Time to fire some fire. Loose some soot. Release the grease.\n\n— Arrows deal 12ø fire damage\n— Fire damage causes the rock to ignite, dealing the damage over time\n— Fire damage has the range of 0-3",
+    "ru": ""
+  },
+  {
+    "en": "Ice Arrows",
+    "ru": ""
+  },
+  {
+    "en": "A new type of arrow, with a shattering effect.\n\n— The rock freezes after being struck by 6 ice arrows\n— After a 4 second duration, the ice shatters for 2x the damage dealt while the rock was frozen, with a range of 0-3\n— Additional ice arrows do not increase the duration, but instead deal double damage\n— After shattering, the rock is immune to ice arrows for 4 seconds\n— Fire shatters ice immediately, but does not prevent ice buildup\n— Ice Arrows deal 7ø damage, with a range of 0-10\n— This is the longest tooltip in the game",
+    "ru": ""
+  },
+  {
+    "en": "Zybellium Arrows",
+    "ru": ""
+  },
+  {
+    "en": "The curious power of Zybellium manifested in the humble arrowhead.\n\n— Zybe Arrows spawn lingering energy, resulting in a 3x multiplier to the next 5 damage instances\n— Zybe Arrows deal no damage, and leave behind no arrows",
+    "ru": ""
+  },
+  {
+    "en": "Adaptive Learning",
+    "ru": ""
+  },
+  {
+    "en": "Baby drones deal damage based on the current tier, but perhaps they could learn a thing or two from slammers.\n\n— Baby drones hit the rock more times based on the average hits by a slammer during a combo divided by 5, with a minimum of +1.\n— Baby drone base hit count 2",
+    "ru": ""
+  },
+  {
+    "en": "Drone",
+    "ru": ""
+  },
+  {
+    "en": "Get yourself a drone, but be careful — they're hungry!\n\n— Drones pick up a fixed amount of shards, based on the current tier\n— Drones consume 60% of picked up shards to sustain themselves\n— Drones die during compression events, but from the ashes something new is born - Baby Drones, who die the following compression event!\n— Drones become more expensive every compression event\n— You can kill drones by clicking on them, but that does not spawn babies",
+    "ru": ""
+  },
+  {
+    "en": "Terathrusters",
+    "ru": ""
+  },
+  {
+    "en": "Triple the acceleration of drones with this one simple upgrade!\n\n— Increases drone acceleration by 3x",
+    "ru": ""
+  },
+  {
+    "en": "Dirty Thrusters",
+    "ru": ""
+  },
+  {
+    "en": "The drones must have eaten something foul.\n\n— Drones spill shards when descending — like a mountaineer with thrusters, but without a hat.",
+    "ru": ""
+  },
+  {
+    "en": "Gatlegnorp",
+    "ru": ""
+  },
+  {
+    "en": "Empowered by zybellium and a rigorous selection process, the gatlegnorp is able to withstand the heat and knockback of the gatling gun.\n\n— Gatling gun bullets deal 2ø damage, with a range of 0-5\n— Bullets deal raw damage, which means they are not affected by the multiplier.\n— Bullets double their damage on compression events\n",
+    "ru": ""
+  },
+  {
+    "en": "Riflegnorp",
+    "ru": ""
+  },
+  {
+    "en": "A gnorp with a gun - what could go wrong?\n\n— Riflegnorps shoot bullets that deal 5ø damage, with a range 0-10\n— Bullets deal raw damage, which means they are not affected by the multiplier.\n— Bullets double their damage on compression events",
+    "ru": ""
+  },
+  {
+    "en": "Grenade Launcher",
+    "ru": ""
+  },
+  {
+    "en": "Gnorps with guns now shoot a grenade when reloading.\n\n— Grenades explode and deal 80ø raw (unaffected by the multiplier) damage, with a range of 0-5",
+    "ru": ""
+  },
+  {
+    "en": "Capacity",
+    "ru": ""
+  },
+  {
+    "en": "Runners can only pick up 1ø, but this upgrade increases that.\n\n— Increases carrying capacity by 1ø",
+    "ru": ""
+  },
+  {
+    "en": "Speed",
+    "ru": ""
+  },
+  {
+    "en": "Speed is of the essence for runners. They must deliver, lest gnorpciety collapse.\n\n— Increases runner speed by 1 pixel per second",
+    "ru": ""
+  },
+  {
+    "en": "G.E.E.T. Protocol",
+    "ru": ""
+  },
+  {
+    "en": "The Gnorp Expedited Express Throw protocol is a rigorous training reigment for Runners. With the help of a little jetpack, they will learn to throw what they carry all the way to the drop point. Sometimes.\n\n— Chance to G.E.E.T. +10%\n— Unlocks a new building",
+    "ru": ""
+  },
+  {
+    "en": "Teleportation",
+    "ru": ""
+  },
+  {
+    "en": "A zybellium upgrade allowing runners to teleport instead of walking. It may significantly cut down on delivery times if you have a lot of low-range damage.\n\n— Runners teleport to pick up and deliver shards\n— Teleportation time is 3 seconds, and is reduced by all speed bonuses\n— Carrying capacity increased by 50% when teleportation is active\n— Can be disabled",
+    "ru": ""
+  },
+  {
+    "en": "Delivery rush!",
+    "ru": ""
+  },
+  {
+    "en": "Hires two gnorps to act as cheerleaders for when runners deliver shards.\n\n— Runners get a 1p/s increase to their speed for a short time after delivering shards",
+    "ru": ""
+  },
+  {
+    "en": "Combo chance",
+    "ru": ""
+  },
+  {
+    "en": "Thanks to the guys over at GPL, Slammers can be outfitted with tiny high-impulse jetpacks that allow them the ability to combo! \nYes, they can combo on the combos, too.\n\n— Chance to combo +20%",
+    "ru": ""
+  },
+  {
+    "en": "Warm-up",
+    "ru": ""
+  },
+  {
+    "en": "By jumping a few times the Slammers warm up and prepare themselves to be on the receiving end of unspeakable pain.\n\n— +1ø damage per jump performed",
+    "ru": ""
+  },
+  {
+    "en": "Combo Power",
+    "ru": ""
+  },
+  {
+    "en": "Zybellium-Enhanced skullcaps is sure to provide a nice bonus for the slammers. \n\nDuring a combo, every third hit gets 5x damage, with a range of 2-5, 7-10 with meditation",
+    "ru": ""
+  },
+  {
+    "en": "Fire Breath",
+    "ru": ""
+  },
+  {
+    "en": "If you can put fuel inside jetpacks, why can't you put fuel inside gnorps too?\n\n— Slammers will now breathe fire on their 7th combo\n— Deals 30x slammer damage as fire\n— Stops the current combo",
+    "ru": ""
+  },
+  {
+    "en": "Meditation",
+    "ru": ""
+  },
+  {
+    "en": "Slammers now meditate before slamming, resulting in shards that fly farther. \n\n— Spend 4 seconds focusing pre-slam\n— +5 range, from 0-5 to 5-10\n— Can be disabled",
+    "ru": ""
+  },
+  {
+    "en": "Bomber",
+    "ru": ""
+  },
+  {
+    "en": "Gnorps with jetpacks!\n\n— Flies high, then falls onto the rock\n— Deals 15ø damage, with a range of 1-3",
+    "ru": ""
+  },
+  {
+    "en": "Pocket Rockets",
+    "ru": ""
+  },
+  {
+    "en": "Bombers now get an ace teleported into their pockets: Rockets.\n\n— When Bombers deal damage, they get 2 pocket rockets teleported into their rocket pocket\n— Rockets deal 400ø, unaffected by the multiplier, with a range of 0-5\n— Sadly, teleporting back in time leaves their rocket pockets empty, and that, also sadly, makes sense.",
+    "ru": ""
+  },
+  {
+    "en": "Rocket Arrows",
+    "ru": ""
+  },
+  {
+    "en": "A much needed upgrade to the standard arrow. \n\n— All regular arrows become rocket arrows that deal 15ø, up from 3ø\n— Inherits the range of rockets, 0-5, and benefits from some rocket upgrades and talents, at one third efficiency\n— Unlike regular rockets, these arrows benefit from the multiplier\n— Does not leave behind an arrow",
+    "ru": ""
+  },
+  {
+    "en": "Find the Chosen",
+    "ru": ""
+  },
+  {
+    "en": "Gnorp legends speak of an extra-strong gnorp that can pull the sword embedded from the stone",
+    "ru": ""
+  },
+  {
+    "en": "Timeshift Impact",
+    "ru": ""
+  },
+  {
+    "en": "Usually, when you land on something, there is only one impact. Timeshift technology, enabled by Zybellium, makes that not so. \n\n— Bombers now shift back in time after striking the rock, setting up an immediate consecutive strike",
+    "ru": ""
+  },
+  {
+    "en": "Ultra Boost",
+    "ru": ""
+  },
+  {
+    "en": "Thanks to advances in propulsion technology, bombers will do significantly more damage.\n\n— Increases bomber damage by 5x",
+    "ru": ""
+  },
+  {
+    "en": "Weakspot Discovery",
+    "ru": ""
+  },
+  {
+    "en": "The Rock Analysis lab believes that the rock has weakspots that can be exposed.\n\n— A weakspot appears every 2 minutes\n— Weakspots can be clicked for 300ø damage\n— Weakspot damage has a range of 0-10\n— Max 5 weakspots present at a time\n— A bar under the rock indicate the progress to the next weakspot",
+    "ru": ""
+  },
+  {
+    "en": "Weakspot Frequency",
+    "ru": ""
+  },
+  {
+    "en": "Weakspots appearing at a greater frequency? Great!\n\n— Weakspots now appear every 1.5 minutes, instead of every 2 minutes\n— When a weakspot is triggered, the overdrive bar is filled up by an equivalent of 5 clicks",
+    "ru": ""
+  },
+  {
+    "en": "Weakspot Weakspot",
+    "ru": ""
+  },
+  {
+    "en": "Turns out the weakspots have a weakspot.\n\n— Weakspot damage is tripled",
+    "ru": ""
+  },
+  {
+    "en": "Shrine",
+    "ru": ""
+  },
+  {
+    "en": "The Shrine to the Sword is a place where spiritual gnorps gather, and attempt to understand the secrets of the sword embedded in stone.\n\n— Unlocks the means to extract the sword in the stone\n— Provides housing for 4 gnorps",
+    "ru": ""
+  },
+  {
+    "en": "Archery Range",
+    "ru": ""
+  },
+  {
+    "en": "Not all gnorps are eager to hit the rock with their heads. Those gnorps put their heads together and came up with a neat new concept: The Bow & Arrow.",
+    "ru": ""
+  },
+  {
+    "en": "Academy",
+    "ru": ""
+  },
+  {
+    "en": "The scientists at the Rock Analysis Lab have deduced that it is possible to infuse gnorps with Zybellium. They believe the result is a zychic gnorp that can lift shards with their minds.\n\n— Unlocks Zygnorps: Zygnorps can lift shards with their minds, and gain energy based on how much Runners deliver\n— Provides housing for 3 gnorps",
+    "ru": ""
+  },
+  {
+    "en": "Gun v. Rock",
+    "ru": ""
+  },
+  {
+    "en": "The trial of the century is about to begin. Who will win: A dumb rock that can't even fight back, or the finest guns gnorpkind can craft?\n\n— Unlocks gnorps with expensive guns",
+    "ru": ""
+  },
+  {
+    "en": "Rock Analysis Lab",
+    "ru": ""
+  },
+  {
+    "en": "At the lab, gnorp scientists study the rock and the shards it spills forth.\n\n— Provides housing for 2 gnorps",
+    "ru": ""
+  },
+  {
+    "en": "Railgun",
+    "ru": ""
+  },
+  {
+    "en": "[REDACTED] could stop the rock from taking all our shards. The railgun will [REDACTED], but requires a [REDACTED]ton of shards to be built.",
+    "ru": ""
+  },
+  {
+    "en": "Concentration",
+    "ru": ""
+  },
+  {
+    "en": "Thanks to some non-volatile juice from the garden, bombers are now able to, perhaps a little too well, concentrate on the task at hand.\n\n— +0.2ø damage per bomber\n— Range reduced to 0-2, from 1-3",
+    "ru": ""
+  },
+  {
+    "en": "The YX1-AB",
+    "ru": ""
+  },
+  {
+    "en": "Gnorp scientists believe they have invented a new tool for success: Big rockets, that contain smaller rockets!\n\n— Produces rockets, at the expense of shards\n— Runners contribute shards when G.E.E.T.ing\n— When 3200ø has been contributed, launch a rocket containg 16 smaller rockets each dealing 400ø damage, unaffected by the multiplier, with a range of 0-5",
+    "ru": ""
+  },
+  {
+    "en": "The Express",
+    "ru": ""
+  },
+  {
+    "en": "Home of the runners, the Express is a place of delivery.\n\n— Unlocks Runners: Runners carry shards to the stash",
+    "ru": ""
+  },
+  {
+    "en": "Slam Club",
+    "ru": ""
+  },
+  {
+    "en": "The Slam Club is where gnorps train their slamming. \n\n— Unlocks Slammers: Slammers damage the rock, resulting in shards",
+    "ru": ""
+  },
+  {
+    "en": "The Shard Stash",
+    "ru": ""
+  },
+  {
+    "en": "Gnorp Propulsion Lab",
+    "ru": ""
+  },
+  {
+    "en": "The home of most things propulsion, the GPL unlocks a world of opportunities and is essentially essential.\n\n— Unlocks Bombers: Bombers fall onto the rock for significant damage, but the resulting shards do not fly far\n— Unlocks new buildings and upgrades",
+    "ru": ""
+  },
+  {
+    "en": "The Garden",
+    "ru": ""
+  },
+  {
+    "en": "Gnorps love flowers. Besides looking pretty, flowers may also have some utility that can be extracted through the combined powers of chemistry and zybellium.\n\nGnorps, we need to cook.",
+    "ru": ""
+  },
+  {
+    "en": "Amplified Observation",
+    "ru": ""
+  },
+  {
+    "en": "EYE SEE YOU.\n\n— All weakspot discovery is increased by +40% per active director, with a maximum 3x increase with 5 directors present",
+    "ru": ""
+  },
+  {
+    "en": "Singular Shockwave",
+    "ru": ""
+  },
+  {
+    "en": "Not just an upgrade, a seismic shift.\n\n— Hulks jump an additional time\n— The shockwaves generated by hulks have an additonal power of 40% of the damage dealt in the last minute (not affected by the multiplier)",
+    "ru": ""
+  },
+  {
+    "en": "Enriched Puke",
+    "ru": ""
+  },
+  {
+    "en": "Gnorps drink this stuff?\n\n— Acid now multiplies damage by 2.0, up from 1.5",
+    "ru": ""
+  },
+  {
+    "en": "Vulnerability",
+    "ru": ""
+  },
+  {
+    "en": "Allows rockets to cause vulnerability to the rock.\n\n— Vulnerability increases the minimum and maximum range of all damage by +2, and maximum range can exceed 10\n— Vulnerability lasts for 15 seconds\n— Requires 240 rockets to trigger, and when triggered causes 25000ø damage at a range of 7-10. Subsequent rockets does not increase the duration.",
+    "ru": ""
+  },
+  {
+    "en": "House of Shards",
+    "ru": ""
+  },
+  {
+    "en": "If you want to build more advanced buildings and gain access to new gnorps, the crew at the House of Shards have got you covered.\n\n— Unlocks advanced buildings\n— Provides housing for 4 gnorps",
+    "ru": ""
+  },
+  {
+    "en": "Build Housing",
+    "ru": ""
+  },
+  {
+    "en": "Gnorps need houses!\n\n— Provides housing for 2 gnorps\n— It takes some time before the gnorps are ready to be productive members of gnorpciety\n\nSome other buildings also provide housing, so look out for that!",
+    "ru": ""
+  },
+  {
+    "en": "Slammer",
+    "ru": ""
+  },
+  {
+    "en": "Slammers use their head — they understand that without pain, there can be no gain.",
+    "ru": ""
+  },
+  {
+    "en": "Runner",
+    "ru": ""
+  },
+  {
+    "en": "Runners are the lifeblood of the gnorpconomy. They ensure that shards get picked up and delivered.",
+    "ru": ""
+  },
+  {
+    "en": "X-rockets",
+    "ru": ""
+  },
+  {
+    "en": "The more the better\n\n— Increase X-rocket count by 1",
+    "ru": ""
+  },
+  {
+    "en": "Y-rockets",
+    "ru": ""
+  },
+  {
+    "en": "You really can't have enough rockets\n\n— Increase Y-rocket count by 1",
+    "ru": ""
+  },
+  {
+    "en": "Robotics",
+    "ru": ""
+  },
+  {
+    "en": "At robotics, drones are made and manned.\n\n— Unlocks Drones: Drones deliver shards, but eat 60% of them",
+    "ru": ""
+  },
+  {
+    "en": "Cocoa Cafe",
+    "ru": ""
+  },
+  {
+    "en": "This is a place where gnorps can gather and enjoy some hot cocoa.\n\n— Unlocks Mountaineers: Mountaineers climb the pile and throw shards for runners to pick up\n— Provides housing for 3 gnorps",
+    "ru": ""
+  },
+  {
+    "en": "Mountaineer",
+    "ru": ""
+  },
+  {
+    "en": "Mountaineer gnorps are a hardy bunch. Undeterred by verticality, earthquakes and shards falling from the sky, they will do anything to enjoy the weather up there.\n\n— Climbs and digs the pile. Throws shards down-pile for the runners to pick up.",
+    "ru": ""
+  },
+  {
+    "en": "Improved Digging",
+    "ru": ""
+  },
+  {
+    "en": "It's hard for mountaineers to destroy what they love, but if you offer up some gnorps for them to tell tall tales to, they'll take to the tops and tunnel through.\n\n— Mountaineers double the amount they dig",
+    "ru": ""
+  },
+  {
+    "en": "Digging width",
+    "ru": ""
+  },
+  {
+    "en": "Efficiency is at the heart of gnorpkind, or at least it should be. Mountaineers can dig wider with this upgrade, and that is surely more efficient.\n\n— Mountaineers digs 2 more columns",
+    "ru": ""
+  },
+  {
+    "en": "King of the Pile",
+    "ru": ""
+  },
+  {
+    "en": "There can only be one.\n\n— If a mountaineer starts digging while at the highest point of the pile, it is crowned King and digs twice as fast\n— The King can be crowned again, up to 4 times, for a total 16x digging speed\n— Another coronation can be held 30 seconds after the previous one\n— The king will not rest as long as the pile is worthy of climbing",
+    "ru": ""
+  },
+  {
+    "en": "Zybellium Agitator",
+    "ru": ""
+  },
+  {
+    "en": "Installs a Zybellium Agitator on the rock.\n\n— Allows the generation of an extra Zybellium during compression events within 5 minutes of the previous one\n— Effect can occur up to 3 times",
+    "ru": ""
+  },
+  {
+    "en": "Zybellium Collection",
+    "ru": ""
+  },
+  {
+    "en": "The mysterious spiky ball floating above the rock has been dubbed Zybellium, and gnorp scientists move to attempt collection of it. Requires new equipment, and that's gonna cost.\n\nWhat does the Zybellium do?",
+    "ru": ""
+  },
+  {
+    "en": "Gatlegnorp: Ammo",
+    "ru": ""
+  },
+  {
+    "en": "The gatlegnorp has put in 13 requests for more ammo in the last 10 seconds. Would you like to accomodate him?\n\n— Gatler ammo users get 3x more ammo.",
+    "ru": ""
+  },
+  {
+    "en": "Sticky, Floral Residue",
+    "ru": ""
+  },
+  {
+    "en": "'Frankly, there is  far too much knockback on these guns' posits gnorps with guns. Perhaps our friends over at the garden can lend a hand?\n\n— Sticky floral residue is attached to the legs of gnorps with guns, significantly reducing the knockback of their guns",
+    "ru": ""
+  },
+  {
+    "en": "Breaktime",
+    "ru": ""
+  },
+  {
+    "en": "The runners are in a constant state of fatigue, and now they hear of mountaineers that can take breaks. Maybe the runners deserve a break too.\n\n— Until the next compression event, runners SIGNIFICANTLY reduce their movement speed (20% of normal speed)\n— After the compression event, they gain a 2x increase to their carrying capacity and move at their normal speed again. They also gain the ability to take breaks freely",
+    "ru": ""
+  },
+  {
+    "en": "Balloon Gunner",
+    "ru": ""
+  },
+  {
+    "en": "Why not equip the balloon with a gun, so that it can shoot the rock when not busy picking up zybe? There is no good reason not to. Buy this upgrade.\n\n Do it.\n\n— The balloon now shoots rifle bullets when idle",
+    "ru": ""
+  },
+  {
+    "en": "Drone Attunement",
+    "ru": ""
+  },
+  {
+    "en": "Zygnorps attune to the drones.\n\n— Allow Zygnorps to gain mind-energy based on Drone collection",
+    "ru": ""
+  },
+  {
+    "en": "Mountaineer Attunement",
+    "ru": ""
+  },
+  {
+    "en": "Zygnorps attune to the mountaineers.\n\n— Allow Zygnorps to gain mind-energy based on Mountaineer collection",
+    "ru": ""
+  },
+  {
+    "en": "Zygnorp",
+    "ru": ""
+  },
+  {
+    "en": "The gnorp with zychic powers.\n\n— Lifts shards with their mind-energy and sends them to the stash\n— Gains mind-energy based on 40% of shards delivered by runners, allowing them to lift an equivalent amount",
+    "ru": ""
+  },
+  {
+    "en": "Additional Housing",
+    "ru": ""
+  },
+  {
+    "en": "The gnorps are getting crowded. We need more housing.\n\n— Every third housing you build, builds another for free\n— Applies retroactively",
+    "ru": ""
+  },
+  {
+    "en": "Accord: Reversal",
+    "ru": ""
+  },
+  {
+    "en": "Reclaim fewer shards, rock.\n\n— When the rock reclaims shards, 50% of those shards are instead flung back into the pile\n— You can only have one accord active at a time. No refunds.",
+    "ru": ""
+  },
+  {
+    "en": "Accord: Overdrive",
+    "ru": ""
+  },
+  {
+    "en": "Strength through unity.\n\n— When reaching overdrive thresholds, a sword appears and deals 3% of all damage dealt the last minute as pure damage (unaffected by the multiplier or any statuses)\n— Overdrive multiplier is now always at max\n— Clicking no longer increase the overdrive bar, but overdrive progress is automatically gained over time\n— You can only have one accord active at a time. No refunds.",
+    "ru": ""
+  },
+  {
+    "en": "Accord: Power",
+    "ru": ""
+  },
+  {
+    "en": "Gnorpcalibur can empower the inanimate.\n\n— Damage unaffected by the multiplier is now affected by the multiplier, at 13% efficiency\n— You can only have one accord active at a time. No refunds.",
+    "ru": ""
+  },
+  {
+    "en": "Flower Power",
+    "ru": ""
+  },
+  {
+    "en": "It could be argued, by some, that the volume of flowers produced is not sufficient. Infusing the flowers with more zybe should allievate that issue.\n\n— Doubles the speed of growth of flowers",
+    "ru": ""
+  },
+  {
+    "en": "(the) Finale",
+    "ru": ""
+  },
+  {
+    "en": "Construct (the) Finale, a mighty vessel allowing you to win when the compression bar is full.",
+    "ru": ""
+  },
+  {
+    "en": "Initiate (the) Finale",
+    "ru": ""
+  },
+  {
+    "en": "The pile is sufficiently tall, (the) Finale is ready to launch. Two brave gnorps are in their seats.\n\nIs the music on? Turn the music on. Sounds effects too.\n\nYou are ready.\n\nInitiate (the) Finale.",
+    "ru": ""
+  },
+  {
+    "en": "Reclamation Nullification",
+    "ru": ""
+  },
+  {
+    "en": "The rock might be fighting back now, but gnorps shall prevail.\n\n— When shards are collected, reclamation is prevented at an equivalent amount.",
+    "ru": ""
+  },
+  {
+    "en": "Save the game!\n\nYou can find your save files and options in\n%APPDATA%\\Gnorp\\Apologue",
+    "ru": ""
+  },
+  {
+    "en": "Join the Discord!\n\nThe discord is a great place to share your experience with the game, ask questions, and get notified about news and updates.",
+    "ru": ""
+  },
+  {
+    "en": "Check out the wiki!\n\nThe wiki maintained by the community, and is host to a wealth of information about the game. You can also contribute to it!",
+    "ru": ""
+  },
+  {
+    "en": "Visit the website!\n\nThe website has the latest news about the game.",
+    "ru": ""
+  },
+  {
+    "en": "If you have lost your save data, you can recover some of your talent points based on your Steam Achievements.\n\n— (the) Gnorp Apologue: 17\n— Gnorpcalibur!: 14\n— Getting somwhere: 10\n— Speed: 6\n— New Beginning: 2",
+    "ru": ""
+  },
+  {
+    "en": "Recover talent points based on Steam Achievements.\n\nNOT CONNECTED TO STEAM",
+    "ru": ""
+  },
+  {
+    "en": "Save",
+    "ru": ""
+  },
+  {
+    "en": "Save on quit",
+    "ru": ""
+  },
+  {
+    "en": "DELETE SAVE",
+    "ru": ""
+  },
+  {
+    "en": "Autosave",
+    "ru": ""
+  },
+  {
+    "en": "Recover save",
+    "ru": ""
+  },
+  {
+    "en": "Start",
+    "ru": ""
+  },
+  {
+    "en": "Global",
+    "ru": ""
+  },
+  {
+    "en": "Effects",
+    "ru": ""
+  },
+  {
+    "en": "Music",
+    "ru": ""
+  },
+  {
+    "en": "Loop music",
+    "ru": ""
+  },
+  {
+    "en": "Gun sounds",
+    "ru": ""
+  },
+  {
+    "en": "Mute effects\n\nwhen minimized",
+    "ru": ""
+  },
+  {
+    "en": "UI Scale",
+    "ru": ""
+  },
+  {
+    "en": "Shard Display",
+    "ru": ""
+  },
+  {
+    "en": "Drag speed",
+    "ru": ""
+  },
+  {
+    "en": "Cursor size",
+    "ru": ""
+  },
+  {
+    "en": "Momentum drag",
+    "ru": ""
+  },
+  {
+    "en": "Double-click pans",
+    "ru": ""
+  },
+  {
+    "en": "Cursor trail",
+    "ru": ""
+  },
+  {
+    "en": "Screensaver",
+    "ru": ""
+  },
+  {
+    "en": "minutes",
+    "ru": ""
+  },
+  {
+    "en": "Shards",
+    "ru": ""
+  },
+  {
+    "en": "Number",
+    "ru": ""
+  },
+  {
+    "en": "Exponent",
+    "ru": ""
+  },
+  {
+    "en": "VSync",
+    "ru": ""
+  },
+  {
+    "en": "Framerate cap",
+    "ru": ""
+  },
+  {
+    "en": "Fullscreen",
+    "ru": ""
+  },
+  {
+    "en": "Gnorp unlocked: ",
+    "ru": ""
+  },
+  {
+    "en": "Upgrade unlocked: ",
+    "ru": ""
+  },
+  {
+    "en": "Building unlocked: ",
+    "ru": ""
+  },
+  {
+    "en": "Inspiration unlocked: ",
+    "ru": ""
+  },
+  {
+    "en": "You have unspent talent points to apply.",
+    "ru": ""
+  },
+  {
+    "en": "You have an awfully tall pile there! Will it get even taller?",
+    "ru": ""
+  },
+  {
+    "en": "The rock fights back.\n\nYour pile just compressed, and out from the rock out came a mysterious, spiky ball. \n\nIt might be a good idea to build the Rock Analysis Lab, if you haven't already.",
+    "ru": ""
+  },
+  {
+    "en": "Zybellium has been collected!\n\n Zybellium, or Zybe, is a scarce resource that can only be generated during compression events. \n\nUse it to unlock powerful upgrades. Choose carefully.",
+    "ru": ""
+  },
+  {
+    "en": "You're doing great.\n\nSometimes helpful messages will appear here. Click them to dismiss.",
+    "ru": ""
+  },
+  {
+    "en": "Guns sounds can be disabled in the options",
+    "ru": ""
+  },
+  {
+    "en": "You can increase the size of the cursor in the options.",
+    "ru": ""
+  },
+  {
+    "en": "The rock passively reclaims shards after the first compression. This effect increases as your pile grows taller again.",
+    "ru": ""
+  },
+  {
+    "en": "You can change your color with F1-F7, or Shift+(1-7). Do not press F8, or Shift+8.",
+    "ru": ""
+  },
+  {
+    "en": "You're still doing great.",
+    "ru": ""
+  },
+  {
+    "en": "Press A and D, or Left and Right, to quickly swap between buildings.",
+    "ru": ""
+  },
+  {
+    "en": "Press W or Up to look at the top of the pile.",
+    "ru": ""
+  },
+  {
+    "en": "Press S to initiate the screensaver.",
+    "ru": ""
+  },
+  {
+    "en": "To be able to pan the camera on double-click, go to the options.",
+    "ru": ""
+  },
+  {
+    "en": "Compression events causes your mountaineers to come down from the pile, and your drones to die. Be careful!",
+    "ru": ""
+  },
+  {
+    "en": "You have reached the final tier. Can you win?",
+    "ru": ""
+  },
+  {
+    "en": "The damage and collection meters cover the last minute.",
+    "ru": ""
+  },
+  {
+    "en": "You can minimize the game to reduce GPU usage — the game will continue to run in the background.",
+    "ru": ""
+  },
+  {
+    "en": "Thank you for playing (the) Gnorp Apologue.",
+    "ru": ""
+  },
+  {
+    "en": "\n\nCurrent multiplier increase: {}x",
+    "ru": ""
+  },
+  {
+    "en": "Fire",
+    "ru": ""
+  },
+  {
+    "en": "The rock is currently on fire! Fire damage is dealt over time.",
+    "ru": ""
+  },
+  {
+    "en": "Ice",
+    "ru": ""
+  },
+  {
+    "en": "The rock is frozen! It currently multiplies all damage by 2x and stores it. Damage is released when the ice shatters.",
+    "ru": ""
+  },
+  {
+    "en": "Supershatter Ice",
+    "ru": ""
+  },
+  {
+    "en": "The rock is frozen! It currently stores all damage. Damage is released when the ice shatters. Supershatter causes an additional +550ø, increased by the multiplier. ",
+    "ru": ""
+  },
+  {
+    "en": "Enriched Acid",
+    "ru": ""
+  },
+  {
+    "en": "The rock is melting even harder! All damage multiplied by 2x, but the range of all shards is reduced by 60%",
+    "ru": ""
+  },
+  {
+    "en": "Acid",
+    "ru": ""
+  },
+  {
+    "en": "The rock is melting! All damage multiplied by 1.5, but the range of all shards is reduced by 40%",
+    "ru": ""
+  },
+  {
+    "en": "Zybe",
+    "ru": ""
+  },
+  {
+    "en": "The rock has zybellium arrows attached! Damage is multiplied by 3x, until all zybellium arrows have 0 charges left.",
+    "ru": ""
+  },
+  {
+    "en": "Directive",
+    "ru": ""
+  },
+  {
+    "en": "The rock is currently visited by one or more directors! Range increase by +1 per director.",
+    "ru": ""
+  },
+  {
+    "en": "Vulnerability",
+    "ru": ""
+  },
+  {
+    "en": "The rock is currently vulnerable.  Vulnerability increases the minimum and maximum range of all damage by +2, and maximum range can exceed 10",
+    "ru": ""
+  },
+  {
+    "en": "\n\nRemaining damage (before multiplier): {}ø",
+    "ru": ""
+  },
+  {
+    "en": "\n\nDamage stored: {}ø",
+    "ru": ""
+  },
+  {
+    "en": "Duration: {}s",
+    "ru": ""
+  },
+  {
+    "en": "\n\nTotal charges: {}",
+    "ru": ""
+  },
+  {
+    "en": "\n\nActive directors: {}",
+    "ru": ""
+  },
+  {
+    "en": "Compression",
+    "ru": ""
+  },
+  {
+    "en": "The compression bar indicates your progress to a compression event, which occurs when the pile grows tall enough. Compression events increase your tier.",
+    "ru": ""
+  },
+  {
+    "en": "Current tier: {}/10",
+    "ru": ""
+  },
+  {
+    "en": "SPEDRUN MODE",
+    "ru": ""
+  },
+  {
+    "en": "How fast can you beat (the) Gnorp Apologue?\n\n— You are given 20 talent points\n— The timer starts when you click the rock",
+    "ru": ""
+  },
+  {
+    "en": "Your best time:",
+    "ru": ""
+  },
+  {
+    "en": "NORMAL MODE",
+    "ru": ""
+  },
+  {
+    "en": "Continue your gnorpventure in the normal mode of the game.\n\n— You will continue to accrue talent points when you reach the required collection rate\n— The perfect mode for experimenting with builds and getting all achievements",
+    "ru": ""
+  },
+  {
+    "en": "Zybellium is a special, scarce resource that you can use to buy certain powerful upgrades.\n\nZybellium is produced by compression events, which occurs when you have a lot of uncollected shards.",
+    "ru": ""
+  },
+  {
+    "en": "Gnorps are the lifeblood of the game. Gnorps are capable of both damaging the rock and collecting shards.\n\nGet more by building housing for them.",
+    "ru": ""
+  },
+  {
+    "en": "These are your accrued talent points, which enable extremely powerful enhancements to your units and buildings.\n\nTo be able to use them, you must prestige.",
+    "ru": ""
+  },
+  {
+    "en": "The multiplier modifies the damage, capacity, etc. of your gnorps.\nIncrease the multiplier by filling the overdrive bar, or through acquiring certain talents.",
+    "ru": ""
+  },
+  {
+    "en": "This is the overdrive bar. Fill it by clicking the rock or flicking shards. When you meet certain thresholds, the multiplier increases.\n\nThe bar depletes over time, but some upgrades allow it to be filled automatically.",
+    "ru": ""
+  },
+  {
+    "en": "By increasing your collection rate, this bar will fill up. You accrue a talent point when it is full.\n\nProgress is kept between prestiges, represented by the grey portion of the bar.",
+    "ru": ""
+  },
+  {
+    "en": "Shards are the main resource of the game. They are produced by gnorps, and are used to buy buildings and upgrades.",
+    "ru": ""
+  },
+  {
+    "en": "Hold to prestige. Prestiging resets your progress, but gives you access to your accrued talent points.\n\nHave a look at the Talent Stone to the left to see what you do with them.",
+    "ru": ""
+  },
+  {
+    "en": "Prestige",
+    "ru": ""
+  },
+  {
+    "en": "Reset",
+    "ru": ""
+  },
+  {
+    "en": "New best speedrun",
+    "ru": ""
+  },
+  {
+    "en": "Speedrun win!",
+    "ru": ""
+  },
+  {
+    "en": "You win!",
+    "ru": ""
+  },
+  {
+    "en": "Slammer->Drone",
+    "ru": ""
+  },
+  {
+    "en": "Slammer->Runner",
+    "ru": ""
+  },
+  {
+    "en": "Runner->Zygnorp",
+    "ru": ""
+  },
+  {
+    "en": "Runner->Mountaineer",
+    "ru": ""
+  },
+  {
+    "en": "Runner->Director",
+    "ru": ""
+  },
+  {
+    "en": "Mountaineer->Hulk",
+    "ru": ""
+  },
+  {
+    "en": "Mountaineer->Slammer",
+    "ru": ""
+  },
+  {
+    "en": "Zygnorp->Drone",
+    "ru": ""
+  },
+  {
+    "en": "Zygnorp->Mountaineer",
+    "ru": ""
+  },
+  {
+    "en": "Zygnorp->Runner",
+    "ru": ""
+  },
+  {
+    "en": "Drone->Bombers",
+    "ru": ""
+  },
+  {
+    "en": "Drone->Rockets",
+    "ru": ""
+  },
+  {
+    "en": "Bomber->Zygnorp",
+    "ru": ""
+  },
+  {
+    "en": "Bomber->Mountaineer",
+    "ru": ""
+  },
+  {
+    "en": "Bomber->Weakspot",
+    "ru": ""
+  },
+  {
+    "en": "Bombers want to hit those targets.\n\n— Bombers trigger weakspots on hit.",
+    "ru": ""
+  },
+  {
+    "en": "Slammers are inspired by the expedience of runners.\n\n— Slammer's movement speed is doubled",
+    "ru": ""
+  },
+  {
+    "en": "Slammers want to give those stupid robots a challenge.\n\n— Slammers do 3 additional preparation jumps",
+    "ru": ""
+  },
+  {
+    "en": "Runners look above and see the effortless grace of the zygnorps\n\n— Runners no longer need to jump to deliver",
+    "ru": ""
+  },
+  {
+    "en": "Mountaineers are impressed by the hulk's impact.\n\n— When mountaineers jump on shards, 1ø of the current tier is sent flying",
+    "ru": ""
+  },
+  {
+    "en": "Mountaineers wish to emulate the jumping prowess of the slammers.\n\n— Mountaineers can jump farther\n— Mountaineers dig 20% faster",
+    "ru": ""
+  },
+  {
+    "en": "Zygnorps gain an affinity for drones\n\n— Doubles the mind-energy gained from drone collection",
+    "ru": ""
+  },
+  {
+    "en": "Zygnorps gain an affinity for Mountaineers\n\n— Doubles the mind-energy gained from mountaineer collection",
+    "ru": ""
+  },
+  {
+    "en": "Zygnorps gain an affinity for runners\n\n— Doubles the mind-energy gained from runner collection",
+    "ru": ""
+  },
+  {
+    "en": "Bombers channel the residual energies of zygnorps\n\n— Bombers timeshift impact 2 more times",
+    "ru": ""
+  },
+  {
+    "en": "Bombers see the plight of the mountaineers, and are urged to help them\n\n— When bombers get pocket rockets sent to their rocket pockets, they have a 5% chance to also send one to every active mountaineer",
+    "ru": ""
+  },
+  {
+    "en": "Drones enter efficiency mode, reducing their overall movement speed and consumption.\n\n— Descent rate is reduced by 50%\n— Acceleration reduced by 50%\n— Consumption reduced to 50%, from 60%",
+    "ru": ""
+  },
+  {
+    "en": "Drones enter burn mode, increasing their overall movement speed and consumption.\n\n— Descent rate is increased by 100%\n— Acceleration increased by 100%\n— Consumption increased to 70%, from 60%",
+    "ru": ""
+  },
+  {
+    "en": "Envious of the climbing abilities of the mountaineers, runners attempt to destroy what the mountaineers love\n\n— Increases carrying capacity by 10% per active mountaineer",
+    "ru": ""
+  },
+  {
+    "en": "Directors give some pointers to the runners, increasing their G.E.E.T. chance.\n\n—  +10% G.E.E.T. chance per active director on the rock",
+    "ru": ""
+  },
+  {
+    "en": "Requires the XY1-AB to be built",
+    "ru": ""
+  },
+  {
+    "en": "Requires the garden to be built",
+    "ru": ""
+  },
+  {
+    "en": "Requires weakspots to be unlocked",
+    "ru": ""
+  },
+  {
+    "en": "Requires at least {} drones to have been\nbought this compression cycle",
+    "ru": ""
+  },
+  {
+    "en": "Requires at least",
+    "ru": ""
+  },
+  {
+    "en": "Not enough shards\n",
+    "ru": ""
+  },
+  {
+    "en": "Not enough gnorps\n",
+    "ru": ""
+  },
+  {
+    "en": "Not enough zybe\n",
+    "ru": ""
+  },
+  {
+    "en": "Buy!\n\n",
+    "ru": ""
+  },
+  {
+    "en": "Upgrade limit reached",
+    "ru": ""
+  },
+  {
+    "en": "Already purchased",
+    "ru": ""
+  },
+  {
+    "en": "\n\nCurrent multiplier: {}",
+    "ru": ""
+  },
+  {
+    "en": "\n\nCurrent average slammer hits: {}\n\nBaby drones will hit {} times.",
+    "ru": ""
+  },
+  {
+    "en": "\n\nCurrent damage: {}ø",
+    "ru": ""
+  },
+  {
+    "en": "LOCK TALENTS",
+    "ru": ""
+  },
+  {
+    "en": "When you have allocated a talent point, you can apply it to the game.\n\nTalents can not be changed once applied, but you don't have to apply all your talent points at once.",
+    "ru": ""
+  },
+  {
+    "en": "Milestone Requirement",
+    "ru": ""
+  },
+  {
+    "en": "You need 1 more talent point to unlock the milestone below",
+    "ru": ""
+  },
+  {
+    "en": "You need {} more talent points to unlock the milestone below",
+    "ru": ""
+  },
+  {
+    "en": "Normal Arrows",
+    "ru": ""
+  },
+  {
+    "en": "Bullet Arrows",
+    "ru": ""
+  },
+  {
+    "en": "Grenade Arrows",
+    "ru": ""
+  },
+  {
+    "en": "Targeting: Closest",
+    "ru": ""
+  },
+  {
+    "en": "Targeting: Farthest",
+    "ru": ""
+  },
+  {
+    "en": "Targeting: Tallest",
+    "ru": ""
+  },
+  {
+    "en": "Teleport",
+    "ru": ""
+  },
+  {
+    "en": "Meditate",
+    "ru": ""
+  },
+  {
+    "en": "Grow Eye Flowers",
+    "ru": ""
+  },
+  {
+    "en": "Grow Puke Flowers",
+    "ru": ""
+  },
+  {
+    "en": "Grow Power Flowers",
+    "ru": ""
+  },
+  {
+    "en": "Auto-House: ON",
+    "ru": ""
+  },
+  {
+    "en": "Auto-House: OFF",
+    "ru": ""
+  },
+  {
+    "en": "It's climbing time!",
+    "ru": ""
+  },
+  {
+    "en": "Time for some cocoa",
+    "ru": ""
+  },
+  {
+    "en": "YX1: Enable",
+    "ru": ""
+  },
+  {
+    "en": "YX1: Disable",
+    "ru": ""
+  },
+  {
+    "en": "Runners: Work",
+    "ru": ""
+  },
+  {
+    "en": "Runners: Break",
+    "ru": ""
+  },
+  {
+    "en": "Nothing special here — just normal arrows doing normal things",
+    "ru": ""
+  },
+  {
+    "en": "Rifle bullets become fire arrows",
+    "ru": ""
+  },
+  {
+    "en": "Rifle bullets become ice arrows",
+    "ru": ""
+  },
+  {
+    "en": "Rifle bullets become normal arrows",
+    "ru": ""
+  },
+  {
+    "en": "Rifle bullets become grenade arrows.\n\n— Grenade arrows deal equal damage to grenades, and do not leave behind an arrow",
+    "ru": ""
+  },
+  {
+    "en": "Drones will target the closest point in the pile which fills their capacity",
+    "ru": ""
+  },
+  {
+    "en": "Drones will target the farthest point in the pile which fills their capacity",
+    "ru": ""
+  },
+  {
+    "en": "Drones will target the tallest point in the pile",
+    "ru": ""
+  },
+  {
+    "en": "Teleportation is a powerful tool, but sometimes you want it disabled",
+    "ru": ""
+  },
+  {
+    "en": "Slammers enjoy the zen life.\n\n— Spends 4 seconds focusing pre-slam\n— +5 Min & Max Range",
+    "ru": ""
+  },
+  {
+    "en": "Slammers do not meditate.\n\n — Slammers have no self-restraint, which provides no gameplay benefits",
+    "ru": ""
+  },
+  {
+    "en": "Eye flowers create Directors. Directors sit on top of the rock, at which time they have the following effect:\n— +1 to minimum and max range to all generated shards\n— Directors have a duration of 20 seconds\n— Directors are repelled by fire, which reduces their duration to 2 seconds",
+    "ru": ""
+  },
+  {
+    "en": "Puke flowers create Spewers. Spewers explode on the rock, leaving Acid. While acid is present on the rock, it has the following effects:\n— 1.5x increase to all damage\n— 40% reduction in range for all generated shards",
+    "ru": ""
+  },
+  {
+    "en": "Power flowers create Hulks. Hulks generate a shockwave near the rock. Shockwaves travel from the rock towards the stash. Their power diminshes as they travel and when they move shards. If a shockwave moves 100ø shards, it loses 100 power.  \n\n— Hulk shockwave power is 5000ø, and is increased by the multiplier",
+    "ru": ""
+  },
+  {
+    "en": "Automatically buy housing when you have enough shards and you have fewer than 5 gnorps ready or coming. Auto-House attempts to purchase a new home every 3 seconds.",
+    "ru": ""
+  },
+  {
+    "en": "No housing will be purchased automatically",
+    "ru": ""
+  },
+  {
+    "en": "Mountaineers will attempt to climb the pile",
+    "ru": ""
+  },
+  {
+    "en": "Mountaineers will not climb the pile, and mountaineers currently climbing will return home",
+    "ru": ""
+  },
+  {
+    "en": "Rocket construction is enabled. Runners will contribute to the construction of rockets when G.E.E.T.ing shards.\n\nShards are not sent to the YX1-AB if the button-gnorp is not able to shoot up the rockets quickly enough.",
+    "ru": ""
+  },
+  {
+    "en": "Rocket construction is disabled. Runners will G.E.E.T to the stash.",
+    "ru": ""
+  },
+  {
+    "en": "Runners will not take any breaks",
+    "ru": ""
+  },
+  {
+    "en": "Runners take a break",
+    "ru": ""
+  },
+  {
+    "en": "Normal",
+    "ru": ""
+  },
+  {
+    "en": "Tallest",
+    "ru": ""
+  },
+  {
+    "en": "Closest",
+    "ru": ""
+  },
+  {
+    "en": "Farthest",
+    "ru": ""
+  },
+  {
+    "en": "Teleport: ON",
+    "ru": ""
+  },
+  {
+    "en": "Teleport: OFF",
+    "ru": ""
+  },
+  {
+    "en": "Meditate: ON",
+    "ru": ""
+  },
+  {
+    "en": "Meditate: OFF",
+    "ru": ""
+  },
+  {
+    "en": "Eye",
+    "ru": ""
+  },
+  {
+    "en": "Puke",
+    "ru": ""
+  },
+  {
+    "en": "Power",
+    "ru": ""
+  },
+  {
+    "en": "Climb",
+    "ru": ""
+  },
+  {
+    "en": "Rest",
+    "ru": ""
+  },
+  {
+    "en": "Enable",
+    "ru": ""
+  },
+  {
+    "en": "Disable",
+    "ru": ""
+  },
+  {
+    "en": "Work",
+    "ru": ""
+  },
+  {
+    "en": "Break",
+    "ru": ""
+  },
+  {
+    "en": " p/s",
+    "ru": ""
+  },
+  {
+    "en": " jumps",
+    "ru": ""
+  },
+  {
+    "en": " hits",
+    "ru": ""
+  },
+  {
+    "en": " columns",
+    "ru": ""
+  },
+  {
+    "en": "ACQUIRED",
+    "ru": ""
+  },
+  {
+    "en": "MAX",
+    "ru": ""
+  },
+  {
+    "en": "TALENTS",
+    "ru": ""
+  },
+  {
+    "en": "Damage",
+    "ru": ""
+  },
+  {
+    "en": "Collection",
+    "ru": ""
+  },
+  {
+    "en": "Thank you for playing!",
+    "ru": ""
+  },
+  {
+    "en": "Wiki",
+    "ru": ""
+  },
+  {
+    "en": "Website",
+    "ru": ""
+  },
+  {
+    "en": "Quit Game",
+    "ru": ""
+  },
+  {
+    "en": "Apply",
+    "ru": ""
+  },
+  {
+    "en": "You sure?",
+    "ru": ""
+  },
+  {
+    "en": "Really sure?",
+    "ru": ""
+  },
+  {
+    "en": "Return to menu",
+    "ru": ""
+  },
+  {
+    "en": "Translation by {}, facilitated by IndieArk.",
+    "ru": ""
+  },
+  {
+    "en": "Slammer",
+    "ru": ""
+  },
+  {
+    "en": "Runner",
+    "ru": ""
+  },
+  {
+    "en": "Zygnorp",
+    "ru": ""
+  },
+  {
+    "en": "Mountaineer",
+    "ru": ""
+  },
+  {
+    "en": "Drone",
+    "ru": ""
+  },
+  {
+    "en": "Bomber",
+    "ru": ""
+  },
+  {
+    "en": "Reversed shop",
+    "ru": ""
+  },
+  {
+    "en": "Thanks for the hat!",
+    "ru": ""
+  }
+]
