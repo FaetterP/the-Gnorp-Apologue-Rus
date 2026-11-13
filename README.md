@@ -1,2 +1,21 @@
 # the-Gnorp-Apologue-Rus
-Русификатор для (the) Gnorp Apologue
+
+Русификатор для игры [(the) Gnorp Apologue](https://store.steampowered.com/app/1473350).  
+Буду рад *звёздочке ⭐* на этом репозитории.
+
+Поддержать автора перевода можно здесь:  
+https://boosty.to/faetterp
+
+---
+
+![2026-11-13_230452](https://github.com/user-attachments/assets/fa719868-3498-4718-a96b-7d935928dfb8)
+
+## Установка
+
+1) Скачать архив: https://github.com/FaetterP/the-Gnorp-Apologue-Rus/releases/download/v13-11-2026/the-Gnorp-Apologue-Rus.zip
+
+2) Открыть папку с игрой.  
+Для этого в библиотеке нужно найти игру, нажать ПКМ и выбрать `Управление → Просмотреть локальные файлы`.  
+![image](https://github.com/user-attachments/assets/bb137cbd-1d26-4513-84cb-1ec489ab5e63)
+
+3) Переместить с заменой файл из архива в папку с игрой.
