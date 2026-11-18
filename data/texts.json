@@ -1145,19 +1145,19 @@
   },
   {
     "en": "Gnorp unlocked: ",
-    "ru": "Гнорпов открыто: "
+    "ru": "Гнорп открыт: "
   },
   {
     "en": "Upgrade unlocked: ",
-    "ru": "Улучшений открыто: "
+    "ru": "Улучшение открыто: "
   },
   {
     "en": "Building unlocked: ",
-    "ru": "Зданий открыто: "
+    "ru": "Здание открыто: "
   },
   {
     "en": "Inspiration unlocked: ",
-    "ru": "Вдохновений открыто: "
+    "ru": "Вдохновение открыто: "
   },
   {
     "en": "You have unspent talent points to apply.",
@@ -1561,7 +1561,7 @@
   },
   {
     "en": "Buy!\n\n",
-    "ru": "Купить!\n\n"
+    "ru": "Можно купить!\n\n"
   },
   {
     "en": "Upgrade limit reached",
