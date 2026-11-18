@@ -8,7 +8,7 @@ https://boosty.to/faetterp
 
 ---
 
-![2026-11-13_230452](https://github.com/user-attachments/assets/fa719868-3498-4718-a96b-7d935928dfb8)
+![2026-11-18_082347](https://github.com/user-attachments/assets/e0982852-5b53-4752-b88a-70d9a37d31cb)
 
 ## Установка
 
